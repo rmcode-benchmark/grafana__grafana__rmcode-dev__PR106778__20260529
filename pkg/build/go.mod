@@ -22,18 +22,18 @@ require (
 	github.com/urfave/cli v1.22.16 // @grafana/grafana-backend-group
 	github.com/urfave/cli/v2 v2.27.6 // @grafana/grafana-backend-group
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0 // indirect; @grafana/plugins-platform-backend
-	go.opentelemetry.io/otel v1.36.0 // @grafana/grafana-backend-group
-	go.opentelemetry.io/otel/sdk v1.36.0 // indirect; @grafana/grafana-backend-group
-	go.opentelemetry.io/otel/trace v1.36.0 // @grafana/grafana-backend-group
-	golang.org/x/crypto v0.39.0 // indirect; @grafana/grafana-backend-group
-	golang.org/x/net v0.41.0 // indirect; @grafana/oss-big-tent @grafana/partner-datasources
+	go.opentelemetry.io/otel v1.37.0 // @grafana/grafana-backend-group
+	go.opentelemetry.io/otel/sdk v1.37.0 // indirect; @grafana/grafana-backend-group
+	go.opentelemetry.io/otel/trace v1.37.0 // @grafana/grafana-backend-group
+	golang.org/x/crypto v0.41.0 // indirect; @grafana/grafana-backend-group
+	golang.org/x/net v0.43.0 // indirect; @grafana/oss-big-tent @grafana/partner-datasources
 	golang.org/x/oauth2 v0.30.0 // @grafana/identity-access-team
-	golang.org/x/sync v0.15.0 // @grafana/alerting-backend
-	golang.org/x/text v0.26.0 // indirect; @grafana/grafana-backend-group
+	golang.org/x/sync v0.16.0 // @grafana/alerting-backend
+	golang.org/x/text v0.28.0 // indirect; @grafana/grafana-backend-group
 	golang.org/x/time v0.11.0 // indirect; @grafana/grafana-backend-group
 	google.golang.org/api v0.233.0 // @grafana/grafana-backend-group
 	google.golang.org/grpc v1.73.0 // indirect; @grafana/plugins-platform-backend
-	google.golang.org/protobuf v1.36.6 // indirect; @grafana/plugins-platform-backend
+	google.golang.org/protobuf v1.36.7 // indirect; @grafana/plugins-platform-backend
 	gopkg.in/yaml.v3 v3.0.1 // @grafana/alerting-backend
 )
 
@@ -56,7 +56,7 @@ require (
 	github.com/drone/runner-go v1.12.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32 // indirect
-	github.com/go-logr/logr v1.4.2 // indirect; @grafana/grafana-app-platform-squad
+	github.com/go-logr/logr v1.4.3 // indirect; @grafana/grafana-app-platform-squad
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
@@ -68,9 +68,9 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
-	go.opentelemetry.io/otel/metric v1.36.0 // indirect
+	go.opentelemetry.io/otel/metric v1.37.0 // indirect
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb // indirect; @grafana/grafana-backend-group
 	google.golang.org/genproto/googleapis/api v0.0.0-20250519155744-55703ea1f237 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250519155744-55703ea1f237 // indirect
